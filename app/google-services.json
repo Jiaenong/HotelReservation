@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609764762651",
+    "firebase_url": "https://hotel-reservation-fca78.firebaseio.com",
+    "project_id": "hotel-reservation-fca78",
+    "storage_bucket": "hotel-reservation-fca78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609764762651:android:ead3122e78def4c9",
+        "android_client_info": {
+          "package_name": "com.example.user.hotelreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609764762651-soocqb7sfep90qpksnlatd7a933ojs2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNJSAKD-fd1Wiuy2AFga97LvWNMyRzVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Hotel Reservation</string>
+    <string name="Staffid">Staff ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deluxeroom">Deluxe Room</string>
+    <string name="deluxeRoom">Deluxe Room</string>
+    <string name="premiertwinroom">Premier Twin Room</string>
+    <string name="executivesuiteroom">Executive Suite Room</string>
+    <string name="viproom">VIP Room</string>
+    <string name="managereservation">Manage Reservation</string>
+    <string name="managepayment">Manage Payment</string>
+    <string name="andgeneratereceipt">and Generate Receipt</string>
+    <string name="Roomcheckinout">Room Check - In/ Out</string>
+    <string name="Okay">Okay</string>
+    <string name="customerid">Customer ID :</string>
+    <string name="customer">Customer Name</string>
+    <string name="nric">NRIC</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phoneno">Phone No</string>
+    <string name="next">Next</string>
+    <string name="reservationid">Reservation ID :</string>
+    <string name="selectreservedate">Select a Reservation Date</string>
+    <string name="checkindate">Select a CheckIn Date</string>
+    <string name="day">Number of Days</string>
+    <string name="checkoutdate">Select a CheckOut Date</string>
+    <string name="roomtype">Type of Room</string>
+    <string name="reserve">Reserve</string>
+    <string name="executiveroom">Executive Room</string>
+    <string name="premier">Premier room</string>
+    <string name="showroom">Show Room</string>
+    <string name="select">Select</string>
+    <string name="deluxe">Deluxe</string>
+    <string name="premierroom">Premier</string>
+    <string name="vip">VIP</string>
+    <string name="executive">Executive</string>
+    <string name="entercustomername">Enter customer name</string>
+    <string name="viewdetail">View detail</string>
+    <string name="customerdetail">Customer Detail</string>
+    <string name="reservationdetail">Reservation Detail</string>
+    <string name="status">Status</string>
+    <string name="reservationdate">Reserve Date</string>
+    <string name="viewcheckindate">Checkin Date</string>
+    <string name="viewcheckoutdate">Checkout Date</string>
+    <string name="roomno">Room No.</string>
+    <string name="selectfield">Select field to update</string>
+    <string name="fieldtoupdate">Field to update</string>
+    <string name="update">Update</string>
+    <string name="checkin">Check In</string>
+    <string name="checkout">Check Out</string>
+    <string name="totalpayment">Total Payment</string>
+    <string name="roomNumber">Room No. :</string>
+    <string name="totalroomprice">Total Room Price :</string>
+    <string name="depositamount">Deposit Amount :</string>
+    <string name="totalprice">Total Price :</string>
+    <string name="showroomno">Show Room No.</string>
+    <string name="roomPrice">Show Room Price</string>
+    <string name="showdeposit">Show Deposit</string>
+    <string name="showtotalprice">Show Total Price</string>
+    <string name="roomstatus">All Room Status</string>
+    <string name="selecttypeofroom">Select type of room</string>
+    <string name="paymentid">Payment ID</string>
+    <string name="customername">Customer name :</string>
+    <string name="customeric">Customer IC :</string>
+    <string name="reservedate">Reserve Date :</string>
+    <string name="customercheckindate">CheckIn Date :</string>
+    <string name="numberofdays">Number of Days :</string>
+    <string name="customercheckoutdate">CheckOut Date :</string>
+    <string name="totalamount">Total Amount :</string>
+    <string name="totalAmount">Amount</string>
+    <string name="printreceipt">Send Receipt</string>
+    <string name="email">Email</string>
+    <string name="logout">Log Out</string>
+    <string name="customercheckinout">Customer Check In/ Out detail</string>
+    <string name="roomavailable">Room Available :</string>
+
+    <string-array name="field">
+        <item>Customer detail</item>
+        <item>Reservation detail</item>
+    </string-array>
+
+    <string-array name="room">
+        <item>Deluxe</item>
+        <item>Executive</item>
+        <item>Premier</item>
+        <item>VIP</item>
+    </string-array>
+
+</resources>
